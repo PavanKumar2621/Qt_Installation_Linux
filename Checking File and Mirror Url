@@ -17,3 +17,5 @@ fx@fx-admin:~/Downloads$ ./qt-online-installer-linux-x64-4.8.1.run
 
 // Mirror URL
 
+fx@fx-admin:~/Downloads$ chmod +x qt-online-installer-linux-x64-4.8.1.run 
+fx@fx-admin:~/Downloads$ ./qt-online-installer-linux-x64-4.8.1.run --mirror https://mirrors.sau.edu.cn/qt
