@@ -1,0 +1,1 @@
+qt-online-installer-windows-x64-4.8.1.exe --mirror https://mirrors.sau.edu.cn/qt
