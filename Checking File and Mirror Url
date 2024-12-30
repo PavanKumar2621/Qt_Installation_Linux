@@ -1,0 +1,19 @@
+
+// This is for checking if file is there or Not(installed or not)
+
+fx@fx-admin:~$ cd downloads
+bash: cd: downloads: No such file or directory
+fx@fx-admin:~$ cd downloads/
+bash: cd: downloads/: No such file or directory
+fx@fx-admin:~$ cd Downloads/
+fx@fx-admin:~/Downloads$ ls
+ 30_500MHz_Version2_20241008            en.st-stm32cubeide_1.17.0_23558_20241125_2245_amd64.sh.zip   qt-online-installer-linux-x64-4.8.1.run   st-stm32cubeide_1.17.0_23558_20241125_2245_amd64.sh
+'30_500MHz_Version2_20241008 (1).zip'   google-chrome-stable_current_amd64.deb                       setup.exe                                'Unconfirmed 836739.crdownload'
+ 30_500MHz_Version2_20241008.zip        makeself_dir_RBGMxz                                          stm32
+ ADS9813_20241129.pdf                   petalinux-v2022.1-04191534-installer.run                    'STM32 ST-LINK Utility v4.1.0 setup.exe'
+fx@fx-admin:~/Downloads$ chmod +x qt-online-installer-linux-x64-4.8.1.run 
+fx@fx-admin:~/Downloads$ ./qt-online-installer-linux-x64-4.8.1.run 
+
+
+// Mirror URL
+
